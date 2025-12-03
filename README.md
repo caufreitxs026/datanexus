@@ -5,7 +5,7 @@ Load) platform designed to automate the processing and validation of
 complex sales targets and objective cycles.
 
 ![System
-Dashboard](https://placehold.co/1000x500?text=DataNexus+Dashboard+Preview)
+Dashboard]([https://placehold.co/1000x500?text=DataNexus+Dashboard+Preview](https://fmmpxrxyyivraunrblkg.supabase.co/storage/v1/object/sign/portfolio-images/SalesDrop.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzM4Y2I3MS1hZjJlLTQ3YmUtYmVkNS05OTJiMDg3Y2MxYjciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8taW1hZ2VzL1NhbGVzRHJvcC5qcGciLCJpYXQiOjE3NjQ3Mjk0MzQsImV4cCI6MTc5NjI2NTQzNH0.MgeyzqW33SJIlzmP-Sl8W3DM51xFr9VcxEcs6bFlGcM))
 
 ## Overview
 
